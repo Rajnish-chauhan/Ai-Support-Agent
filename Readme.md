@@ -13,6 +13,7 @@ An enterprise-grade, distributed AI Agent system built with **Spring Boot 4.x**,
 ---
 ## Demo
 <img src="img/demo.png" alt="Architecture Diagram" width="700"/>
+
 ## Executive Summary
 
 Traditional customer support systems struggle with response latencies and manual transaction handling. **CustomerSupportAgent** solves this by decoupling the AI Orchestration layer (`support-agent`) from the Core Business Domain tools (`mcp-server`) via Anthropic's **Model Context Protocol (MCP)**.
